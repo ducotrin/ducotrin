@@ -1,16 +1,41 @@
-## Hi there 👋
+# Eduardo Cotrin Teixeira 🎓
 
-<!--
-**ducotrin/ducotrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Professor de Ensino Superior | Ciência da Computação | Bancos de Dados | Engenharia de Software**
 
-Here are some ideas to get you started:
+Professor de Ensino Superior na **Universidade Tecnológica Federal do Paraná (UTFPR)** e doutor em Ciência da Computação pela **Universidade de São Paulo (USP)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atua no ensino de graduação e pós-graduação, principalmente nas áreas de **Bancos de Dados, Programação, Engenharia de Software e Didática no Ensino Superior**, além de estudos e projetos relacionados à **Ciência de Dados e ao processamento de grandes volumes de dados**.
+
+## 🧭 Áreas de interesse
+
+* 👨‍🏫 Ensino de graduação e pós-graduação
+* 🖥️ Ciência da Computação
+* 🗄️ Bancos de Dados
+* 💻 Engenharia de Software
+* 📊 Ciência de Dados
+* 🔭 Pesquisa e experimentação em Computação
+* 📚 Educação em Computação
+
+## 🛠️ Tecnologias
+
+### Bancos de Dados
+
+`PostgreSQL` · `SQL` · `PL/pgSQL`
+
+### Programação
+
+`Python` · `Java`
+
+### Ciência de Dados
+
+`Data Science` · `Big Data` · `Machine Learning`
+
+## 🌐 Outros espaços
+
+* 🌎 [Página pessoal — UTFPR](http://paginapessoal.utfpr.edu.br/cotrin)
+* 💼 [LinkedIn](https://www.linkedin.com/in/eduardocotrin)
+* 📚 [Currículo Lattes](http://lattes.cnpq.br/5225021589671179)
+
+---
+
+> *Ensinar, pesquisar, desenvolver e continuar aprendendo.*
