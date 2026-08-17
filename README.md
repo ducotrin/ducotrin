@@ -4,7 +4,7 @@
 
 Professor de Ensino Superior na **Universidade Tecnológica Federal do Paraná (UTFPR)** e doutor em Ciência da Computação pela **Universidade de São Paulo (USP)**.
 
-Atua no ensino de graduação e pós-graduação, principalmente nas áreas de **Bancos de Dados, Programação, Engenharia de Software e Didática no Ensino Superior**, além de estudos e projetos relacionados à **Ciência de Dados e ao processamento de grandes volumes de dados**.
+Atuação no ensino de graduação e pós-graduação, principalmente nas áreas de **Bancos de Dados, Programação, Engenharia de Software e Didática no Ensino Superior**, além de estudos e projetos relacionados à **Ciência de Dados e ao processamento de grandes volumes de dados**.
 
 ## 🧭 Áreas de interesse
 
